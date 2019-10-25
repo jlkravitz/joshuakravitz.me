@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Joshua Kravitz
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,30 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Stanford University<div>M.S. Statistics, '20</div><div>B.S. Computer Science, '18</div>
 
 # Organizations/Affiliations
-organizations:
-- name: Stanford University
-  url: ""
+organizations: []
+#- name: Stanford University
+#  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests are in causal inference, and I'm passionate about using analytics to support progressive causes.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
+- Progressive analytics
+- Gerrymandering, civic engagement
+- Causal inference
+- Leadership and management
+  
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: MS in Statistics (Causal Inference)
     institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 2020
+  - course: BS in Computer Science (Systems)
+    institution: Stanford University
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,21 +42,21 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: 'mailto:jlkravitz@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=0Y66fogAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/jlkravitz
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,6 +68,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Stanford graduate student pursuing a degree in statistics, with interests in politics, healthcare and climate change. I am passionate about our democracy, and hope to keep it alive through work on important campaigns and in organizations fighting gerrymandering, for fair elections, and more. I believe that with a strong democracy, substantive, positive change is more likely to follow.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I graduated from Stanford in 2018 with a degree in Computer Science and am pursuing a master's degree in Statistics. While I wasn't researching new methods for estimating causal effects, I oversaw the student leadership team for Camp Kesem at Stanford. As a student director, I gained executive, managerial and administrative experience, working in areas including (but not limited to): marketing and alumni engagement, overseeing the planning and execution of our largest annual fundraiser (raising over $25,000), communicating to our constituents a mid-year change in leadership, and advertising our services on-the-ground to the local community.
+
+In my free time, I watch TV, read, play jazz piano, and improvise. I love learning new things and hope to soon become a better cook, wheel-throw my own pottery, and improve my skills in basketball (my lay-up needs work).
