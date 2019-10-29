@@ -52,6 +52,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/jlkravitz
+- icon: linkedin
+  icon_pack: fab
+  link: https://linkedin.com/in/jlkravitz
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
@@ -63,9 +66,9 @@ email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+# user_groups: 
+# - Researchers
+# - Visitors
 ---
 
 I am a Stanford graduate student pursuing a degree in statistics, with interests in politics, healthcare and climate change. I am passionate about our democracy, and hope to keep it alive through work on important campaigns and in organizations fighting gerrymandering, for fair elections, and more. I believe that with a strong democracy, substantive, positive change is more likely to follow.
