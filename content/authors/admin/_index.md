@@ -22,7 +22,7 @@ bio: My research interests are in causal inference, and I'm passionate about usi
 
 interests:
 - Progressive analytics
-- Gerrymandering, civic engagement
+- Civic engagement
 - Causal inference
 - Leadership and management
   
@@ -71,8 +71,26 @@ email: ""
 # - Visitors
 ---
 
-I am a Stanford graduate student pursuing a degree in statistics, with interests in politics, healthcare and climate change. I am passionate about our democracy, and hope to keep it alive through work on important campaigns and in organizations fighting gerrymandering, for fair elections, and more. I believe that with a strong democracy, substantive, positive change is more likely to follow.
+I recently graduated from Stanford University with a B.S. in computer systems
+(focus: systems and AI) and M.S. in statistics (focus: causal inference).  I am
+actively seeking a role in progressive analytics for the 2020 election cycle.
 
-I graduated from Stanford in 2018 with a degree in Computer Science and am pursuing a master's degree in Statistics. While I wasn't researching new methods for estimating causal effects, I oversaw the student leadership team for Camp Kesem at Stanford. As a student director, I gained executive, managerial and administrative experience, working in areas including (but not limited to): marketing and alumni engagement, overseeing the planning and execution of our largest annual fundraiser (raising over $25,000), communicating to our constituents a mid-year change in leadership, and advertising our services on-the-ground to the local community.
+I have a wide array of professional interests, including politics, healthcare,
+and experimental design. I am passionate about our democracy and hope to keep
+it alive through work on an important campaign or in an organization working to
+increase voter participation, fight gerrymandering, have fair elections, and
+more. I believe that with a strong democracy, substantive positive change is
+more likely to follow.
 
-In my free time, I watch TV, read, play jazz piano, and improvise. I love learning new things and hope to soon become a better cook, wheel-throw my own pottery, and improve my skills in basketball (my lay-up needs work).
+While I wasn't researching new methods for estimating causal effects at
+Stanford, I oversaw the student leadership team for Camp Kesem at Stanford. As
+a student director, I gained executive, managerial and administrative
+experience, working in areas including (but not limited to): counselor
+recruitment and training, marketing and alumni engagement,
+fundraiser event planning, and camper recruitment and community engagement.
+
+In my free time, I watch TV, read, play jazz piano, bake sourdough, and
+improvise. To me, improvisation is more than a fun hobby -- it's a way of life.
+My favorite improv maxims are "Say Yes," "Follow the Fear," and "Mistakes are
+Gifts."
+
