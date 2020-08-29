@@ -71,23 +71,12 @@ email: ""
 # - Visitors
 ---
 
+I'm the Data Director for Sri Kulkarni's congressional campaign in TX-22.
 I recently graduated from Stanford University with a B.S. in computer systems
-(focus: systems and AI) and M.S. in statistics (focus: causal inference).  I am
-actively seeking a role in progressive analytics for the 2020 election cycle.
-
-I have a wide array of professional interests, including politics, healthcare,
-and experimental design. I am passionate about our democracy and hope to keep
-it alive through work on an important campaign or in an organization working to
-increase voter participation, fight gerrymandering, have fair elections, and
-more. I believe that with a strong democracy, substantive positive change is
-more likely to follow.
+(focus: systems and AI) and M.S. in statistics (focus: causal inference). 
 
 While I wasn't researching new methods for estimating causal effects at
-Stanford, I oversaw the student leadership team for Camp Kesem at Stanford. As
-a student director, I gained executive, managerial and administrative
-experience, working in areas including (but not limited to): counselor
-recruitment and training, marketing and alumni engagement,
-fundraiser event planning, and camper recruitment and community engagement.
+Stanford, I oversaw the student leadership team for Camp Kesem at Stanford.
 
 In my free time, I watch TV, read, play jazz piano, bake sourdough, and
 improvise. To me, improvisation is more than a fun hobby -- it's a way of life.
