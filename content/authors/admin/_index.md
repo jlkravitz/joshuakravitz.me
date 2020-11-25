@@ -18,7 +18,7 @@ organizations: []
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are in causal inference, and I'm passionate about using analytics to support progressive causes.
+bio: I'm a data enthusiast looking to make a difference.
 
 interests:
 - Progressive analytics
@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:jlkravitz@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:kravitzj@alumni.stanford.edu'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -71,9 +71,12 @@ email: ""
 # - Visitors
 ---
 
-I'm the Data Director for Sri Kulkarni's congressional campaign in TX-22.
-I recently graduated from Stanford University with a B.S. in computer systems
-(focus: systems and AI) and M.S. in statistics (focus: causal inference). 
+I'm a data enthusiast looking to make a difference.
+
+Recently, I finished working as the Data Director for Sri Kulkarni's
+congressional campaign in TX-22. In June 2020, I graduated from Stanford
+University with a B.S. in computer science (focus: systems and AI) and M.S. in
+statistics (focus: causal inference). 
 
 While I wasn't researching new methods for estimating causal effects at
 Stanford, I oversaw the student leadership team for Camp Kesem at Stanford.
