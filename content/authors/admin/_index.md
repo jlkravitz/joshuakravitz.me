@@ -73,7 +73,8 @@ email: ""
 
 I'm a data enthusiast looking to make a difference.
 
-Recently, I finished working as the Data Director for Sri Kulkarni's
+Recently, I finished working as a Deputy Digital Data Director on Jon Ossoff's
+campaign for U.S. Senate; before that, I was the Data Director for Sri Kulkarni's
 congressional campaign in TX-22. In June 2020, I graduated from Stanford
 University with a B.S. in computer science (focus: systems and AI) and M.S. in
 statistics (focus: causal inference). 
