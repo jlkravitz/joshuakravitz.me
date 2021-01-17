@@ -4,7 +4,7 @@ superuser: true
 authors:
   - admin
 title: Joshua Kravitz
-role: Stanford University\n M.S. Statistics, '20\nB.S. Computer Science, '18
+role: ""
 bio: I'm a data enthusiast looking to make a difference.
 interests:
   - Progressive analytics
