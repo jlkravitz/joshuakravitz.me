@@ -251,6 +251,3 @@ plugins_js  = []
 [marketing]
   google_analytics = "UA-53906482-1"
   google_tag_manager = ""
-
-[cms]
-  netlify_cms = true
