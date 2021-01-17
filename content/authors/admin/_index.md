@@ -26,7 +26,7 @@ social:
     link: https://linkedin.com/in/jlkravitz
   - icon: cv
     icon_pack: ai
-    link: files/20201125_cv.pdf
+    link: files/resume.pdf
 education:
   courses:
     - course: MS in Statistics (Causal Inference)
