@@ -54,7 +54,7 @@ There are many options to learn SQL/R/Python – choose one and stick with it!
 4. https://www.khanacademy.org/computing/computer-programming/sql
 
 ## Resources
-1. Progressive Data Jobs Resources  **(job boards, other courses):**
+1. [Progressive Data Jobs Resources](https://www.progressivedatajobs.org/resources/)  **(job boards, other courses):**
     * Salaries: https://www.progressivedatajobs.org/salary-survey/
 2. **Overviews of Political Data / Tech**
     * https://www.guide.progressivedatajobs.org/
