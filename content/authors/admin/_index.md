@@ -45,16 +45,16 @@ email: ""
 I'm a data enthusiast looking to make a difference.
 
 Recently, I was a Deputy Data Director on Jon Ossoff's
-campaign for U.S. Senate; before that, I was the Data Director for Sri Kulkarni's
-congressional campaign in TX-22. In June 2020, I graduated from Stanford
+[campaign for U.S. Senate](https://electjon.com); before that, I was the Data Director for Sri Kulkarni's
+[congressional campaign in TX-22](https://sri2020.com). In June 2020, I graduated from Stanford
 University with a B.S. in computer science (focus: systems and AI) and M.S. in
 statistics (focus: causal inference). 
 
 While I wasn't researching new methods for estimating causal effects at
-Stanford, I oversaw the student leadership team for Camp Kesem at Stanford.
+Stanford, I oversaw the student leadership team for [Camp Kesem at Stanford](https://campkesemstanford.org).
 
 In my free time, I watch TV, read, play jazz piano, bake sourdough, and
-improvise. To me, improvisation is more than a fun hobby -- it's a way of life.
+[improvise](https://www.improvwisdom.com/). To me, improvisation is more than a fun hobby -- it's a way of life.
 My favorite improv maxims are "Say Yes," "Follow the Fear," and "Mistakes are
 Gifts."
 
